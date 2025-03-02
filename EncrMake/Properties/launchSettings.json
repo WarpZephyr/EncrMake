@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EncrMake": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\WarpZephyr\\Downloads\\AC4_REG\\regulation_enc.bin.encr.bin\""
+    }
+  }
+}
